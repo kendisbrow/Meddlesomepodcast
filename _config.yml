@@ -2,6 +2,8 @@ title: "MeddlesomePodcast"
 description: "MeddlesomePodcast Site - for all things about starting and running a business"
 markdown: kramdown
 
+theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
