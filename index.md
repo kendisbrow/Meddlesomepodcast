@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Welcome
-
-This is your Jekyll site running with GitHub Pages.
+Welcome to your Minima-based Jekyll site.
